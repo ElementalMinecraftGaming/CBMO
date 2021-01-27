@@ -1,2 +1,2 @@
 # CBMO
-Add CSG:GO to your server! 
+Add CS:GO to your server! 
